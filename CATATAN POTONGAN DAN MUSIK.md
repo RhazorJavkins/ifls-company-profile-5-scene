@@ -17,3 +17,7 @@
 - 灌篮高手_EP1(艾孚).mkv: salinan penuh dikeluarkan dari paket karena tidak teridentifikasi pada Sequence 01; sumber tetap di `D:\File\Company Profile IFLC\New Video Company Profile\Sumber\灌篮高手_EP1(艾孚).mkv`. MKV tidak diasumsikan identik dengan MP4.
 
 Sumber asli tidak diubah. Potongan sudah diuji dekode; waktu referensi adalah waktu pada file sumber. Hak penggunaan musik dan materi pihak ketiga masih perlu diperiksa. Audit aset dan daftar asal sebelumnya mendokumentasikan kondisi sebelum peringkasan; untuk file yang berubah, ikuti catatan ini.
+
+## Kompresi foto
+
+Salinan GRUP-1.jpg, GRUP-2.jpg, GRUP-4.jpg, GRUP-22.jpg dan GRUP-27.jpg pada Scene 01 telah dikompresi dengan JPEG; dimensi dipertahankan. Byte dan hash salinan ini berbeda dari sumber asli. File asli tetap tersedia pada lokasi yang tercatat di Audit aset Premiere.csv.
