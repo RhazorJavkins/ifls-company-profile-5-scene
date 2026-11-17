@@ -4,21 +4,23 @@ Durasi target: **00:30**. Bagian 5 dari 5; total target 02:30. Timecode berikut 
 
 ## Narasi
 
-Bahasa membantu kita belajar, bekerja, dan membangun hubungan. Apa pun tujuan Anda, langkah pertama dapat dimulai dari sebuah percakapan. Mari belajar dan terhubung bersama IF Language School. Hubungi kami untuk mendiskusikan kebutuhan Anda.
+Berpusat di Jakarta, IF Language School juga hadir melalui cabang Surabaya dan Semarang. Kami siap mendampingi kebutuhan bahasa Anda. Mari belajar dan terhubung bersama IF Language School. Hubungi kami untuk informasi lebih lanjut.
 
 ## Urutan gambar
 
 | Waktu | Arah gambar | Petunjuk sumber |
 |---|---|---|
-| 00:00–00:10 | Momen kegiatan bersama; pilih gambar yang sesuai dan telah diizinkan. | 20241005_032555000_iOS.MOV |
-| 00:10–00:20 | Foto tim atau kelas; gerakan perlahan dan alami. | PAP_0007-Edit.jpg |
+| 00:00–00:10 | Kenalkan cabang Surabaya melalui foto kantor. | Foto profil 2026/Image_20260226165214_1707_8.jpg |
+| 00:10–00:20 | Kenalkan cabang Semarang melalui foto gedung dan tim. | Foto profil 2026/Image_20260226165320_1713_8.jpg dan Image_20260309132022_180_20.jpg |
 | 00:20–00:30 | Kartu akhir dengan logo dan kontak yang sudah dikonfirmasi. | IF Language School Logo-02.png |
 
 ## Sumber dalam folder
 
-- 20241005_032555000_iOS.MOV — tersalin; asal: `D:\File\Company Profile IFLC\New Video Company Profile\Video\20241005_032555000_iOS.MOV`
-- PAP_0007-Edit.jpg — tersalin; asal: `D:\File\Stock Photo\Photoshoot 2025\Group 1\PAP_0007-Edit.jpg`
-- IF Language School Logo-02.png — tersalin; asal: `D:\File\IF LOGO\IF Language School\LOGO\IF Language School Logo-02.png`
+- `Sumber/Foto profil 2026/Image_20260226165214_1707_8.jpg` — kantor Surabaya.
+- `Sumber/Foto profil 2026/Image_20260226165320_1713_8.jpg` — gedung Semarang.
+- `Sumber/Foto profil 2026/Image_20260309132022_180_20.jpg` — kelompok yang ditampilkan di bagian Semarang pada profil.
+- `Sumber/IF Language School Logo-02.png` — logo horizontal.
+- Sumber tambahan pada folder ini termasuk foto tim dan video kebersamaan lama; lihat audit untuk asalnya.
 
 ## Catatan untuk Claude
 
@@ -32,3 +34,10 @@ Kontak dan QR belum dikonfirmasi. Sisakan placeholder [KONTAK TERVERIFIKASI], ja
 
 
 **Pembaruan sumber:** Baca `CATATAN POTONGAN DAN MUSIK.md` di folder paket. Sebagian video penuh diganti potongan dan musik MP4 diganti MP3; audit lama adalah catatan sebelum perubahan.
+
+
+## Tambahan profil perusahaan 2026
+
+Foto yang dipilih tersedia dalam `Sumber/Foto profil 2026`. Profil perusahaan menyebut pelatihan bahasa Indonesia, Mandarin dan Inggris; terjemahan dokumen, penerjemahan tersumpah, interpretasi, apostille dan terjemahan video; serta cabang Surabaya dan Semarang. Waktu tiap bagian tetap 30 detik; ukur ulang setelah rekaman. Konfirmasi ketersediaan terkini dan izin foto sebelum publikasi video.
+
+Pada halaman 13 profil, foto papan/kantor biru adalah cabang Surabaya; foto gedung abu-abu berlogo IF Language School dan foto kelompok berseragam biru ditampilkan pada bagian Semarang. Jangan menukar label. Foto bisa memerlukan penyesuaian crop.

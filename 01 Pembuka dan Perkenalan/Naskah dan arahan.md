@@ -4,7 +4,7 @@ Durasi target: **00:30**. Bagian 1 dari 5; total target 02:30. Timecode berikut 
 
 ## Narasi
 
-Setiap percakapan membuka kesempatan untuk saling memahami. Di ruang kelas, di tempat kerja, dan dalam kehidupan sehari-hari, bahasa membantu kita terhubung. IF Language School hadir untuk mendampingi perjalanan belajar, melalui interaksi dan pengalaman yang dekat dengan kebutuhan nyata.
+Setiap percakapan membuka kesempatan untuk saling memahami. Di ruang kelas, di tempat kerja, dan dalam kehidupan sehari-hari, bahasa membantu kita terhubung. IF Language School mendampingi perjalanan belajar dan komunikasi lintas bahasa, bagi individu maupun perusahaan.
 
 ## Urutan gambar
 
@@ -31,3 +31,8 @@ Gunakan file di subfolder Sumber sebagai bahan awal, periksa isi lengkap dan pil
 
 
 **Pembaruan sumber:** Baca `CATATAN POTONGAN DAN MUSIK.md` di folder paket. Sebagian video penuh diganti potongan dan musik MP4 diganti MP3; audit lama adalah catatan sebelum perubahan.
+
+
+## Tambahan profil perusahaan 2026
+
+Foto yang dipilih tersedia dalam `Sumber/Foto profil 2026`. Profil perusahaan menyebut pelatihan bahasa Indonesia, Mandarin dan Inggris; terjemahan dokumen, penerjemahan tersumpah, interpretasi, apostille dan terjemahan video; serta cabang Surabaya dan Semarang. Waktu tiap bagian tetap 30 detik; ukur ulang setelah rekaman. Konfirmasi ketersediaan terkini dan izin foto sebelum publikasi video.

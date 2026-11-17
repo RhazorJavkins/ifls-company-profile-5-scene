@@ -4,14 +4,14 @@ Durasi target: **00:30**. Bagian 4 dari 5; total target 02:30. Timecode berikut 
 
 ## Narasi
 
-Komunikasi juga membutuhkan pesan yang dapat dipahami lintas bahasa. Selain pelatihan, IF Language School menyediakan layanan penerjemahan dan interpretasi. Kami membantu menyampaikan informasi dengan memperhatikan konteks dan kejelasan, sesuai kebutuhan komunikasi Anda.
+Selain pelatihan bahasa, kami menyediakan penerjemahan dokumen, termasuk penerjemahan tersumpah, serta layanan interpretasi, apostille, dan terjemahan video. Layanan ini membantu individu dan perusahaan menyampaikan pesan serta memenuhi kebutuhan komunikasi lintas bahasa.
 
 ## Urutan gambar
 
 | Waktu | Arah gambar | Petunjuk sumber |
 |---|---|---|
-| 00:00–00:10 | Perkenalkan kebutuhan komunikasi lintas bahasa. | Potongan referensi terjemahan sekitar 00:00–00:10 |
-| 00:10–00:20 | Tampilkan contoh materi terjemahan secara singkat hanya jika izin dan konteksnya jelas. | Potongan referensi terjemahan sekitar 00:06–00:24 |
+| 00:00–00:10 | Perkenalkan layanan terjemahan dokumen dan penerjemahan tersumpah. | Potongan referensi terjemahan sekitar 00:00–00:10 |
+| 00:10–00:20 | Tampilkan layanan interpretasi, apostille, dan terjemahan video dengan gambar yang sesuai; jangan gunakan ilustrasi sebagai bukti proyek tertentu. | Potongan referensi terjemahan sekitar 00:06–00:24 |
 | 00:20–00:30 | Transisi ke kebersamaan; usulkan gambar baru untuk penerjemah atau interpretasi jika tersedia. | Bahan mentah khusus belum ditemukan |
 
 ## Sumber dalam folder
@@ -33,3 +33,8 @@ Aset terjemahan tambahan termasuk `4A.1.jpg`, `6B.jpg`, `6C.png` dan `版本A.mp
 
 
 **Pembaruan sumber:** Baca `CATATAN POTONGAN DAN MUSIK.md` di folder paket. Sebagian video penuh diganti potongan dan musik MP4 diganti MP3; audit lama adalah catatan sebelum perubahan.
+
+
+## Tambahan profil perusahaan 2026
+
+Foto yang dipilih tersedia dalam `Sumber/Foto profil 2026`. Profil perusahaan menyebut pelatihan bahasa Indonesia, Mandarin dan Inggris; terjemahan dokumen, penerjemahan tersumpah, interpretasi, apostille dan terjemahan video; serta cabang Surabaya dan Semarang. Waktu tiap bagian tetap 30 detik; ukur ulang setelah rekaman. Konfirmasi ketersediaan terkini dan izin foto sebelum publikasi video.

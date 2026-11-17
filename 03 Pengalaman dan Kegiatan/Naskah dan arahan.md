@@ -4,7 +4,7 @@ Durasi target: **00:30**. Bagian 3 dari 5; total target 02:30. Timecode berikut 
 
 ## Narasi
 
-Belajar bahasa menjadi lebih bermakna ketika digunakan dalam interaksi. Melalui latihan dan kegiatan bersama, peserta memperoleh kesempatan untuk mencoba, mendengarkan, dan menyampaikan gagasan. Pembelajaran daring juga dapat membuka ruang belajar bagi peserta dari lokasi yang berbeda.
+Belajar bahasa menjadi lebih bermakna ketika digunakan dalam interaksi. Melalui latihan dan kegiatan bersama, peserta mendapat kesempatan untuk mencoba, mendengarkan, dan menyampaikan gagasan. Pembelajaran daring juga membuka ruang belajar bagi peserta dari lokasi yang berbeda.
 
 ## Urutan gambar
 
@@ -34,3 +34,8 @@ Gambar kelas daring `Image_20241202163603.jpg` dan `Image_20241202163608.jpg` di
 
 
 **Pembaruan sumber:** Baca `CATATAN POTONGAN DAN MUSIK.md` di folder paket. Sebagian video penuh diganti potongan dan musik MP4 diganti MP3; audit lama adalah catatan sebelum perubahan.
+
+
+## Tambahan profil perusahaan 2026
+
+Foto yang dipilih tersedia dalam `Sumber/Foto profil 2026`. Profil perusahaan menyebut pelatihan bahasa Indonesia, Mandarin dan Inggris; terjemahan dokumen, penerjemahan tersumpah, interpretasi, apostille dan terjemahan video; serta cabang Surabaya dan Semarang. Waktu tiap bagian tetap 30 detik; ukur ulang setelah rekaman. Konfirmasi ketersediaan terkini dan izin foto sebelum publikasi video.

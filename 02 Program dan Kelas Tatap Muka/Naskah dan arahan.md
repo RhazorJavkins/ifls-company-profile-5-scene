@@ -4,7 +4,7 @@ Durasi target: **00:30**. Bagian 2 dari 5; total target 02:30. Timecode berikut 
 
 ## Narasi
 
-Setiap orang memiliki tujuan belajar yang berbeda. IF Language School menyediakan pelatihan bahasa Indonesia, Mandarin, dan Inggris. Dalam kelas tatap muka, peserta belajar bersama pengajar, berlatih berkomunikasi, dan mendapat ruang untuk bertanya serta memahami materi secara bertahap.
+Setiap orang memiliki tujuan belajar yang berbeda. IF Language School menyediakan pelatihan bahasa Indonesia, Mandarin, dan Inggris. Peserta dapat belajar melalui kelas tatap muka, dengan latihan dan interaksi bersama pengajar untuk mengembangkan kemampuan berkomunikasi.
 
 ## Urutan gambar
 
@@ -31,3 +31,8 @@ Gunakan file di subfolder Sumber sebagai bahan awal, periksa isi lengkap dan pil
 
 
 **Pembaruan sumber:** Baca `CATATAN POTONGAN DAN MUSIK.md` di folder paket. Sebagian video penuh diganti potongan dan musik MP4 diganti MP3; audit lama adalah catatan sebelum perubahan.
+
+
+## Tambahan profil perusahaan 2026
+
+Foto yang dipilih tersedia dalam `Sumber/Foto profil 2026`. Profil perusahaan menyebut pelatihan bahasa Indonesia, Mandarin dan Inggris; terjemahan dokumen, penerjemahan tersumpah, interpretasi, apostille dan terjemahan video; serta cabang Surabaya dan Semarang. Waktu tiap bagian tetap 30 detik; ukur ulang setelah rekaman. Konfirmasi ketersediaan terkini dan izin foto sebelum publikasi video.
